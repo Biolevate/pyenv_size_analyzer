@@ -70,12 +70,12 @@ The tool provides three main sections in its output:
 ```
 
 
-Customization
-You can customize the output by modifying the exclude_packages and top_n parameters:
+### Customization
 
-exclude_packages: A list of package names to exclude from the analysis.
-top_n: The number of top packages to display in each section.
+You can customize the output by modifying the `exclude_packages` and `top_n` parameters:
 
+- `exclude_packages`: A list of package names to exclude from the analysis.
+- `top_n`: The number of top packages to display in each section.
 
 ### License
 
