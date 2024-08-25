@@ -1,0 +1,10 @@
+setup.py
+pyenv_size_analyzer/__init__.py
+pyenv_size_analyzer/main.py
+pyenv_size_analyzer/utils.py
+pyenv_size_analyzer.egg-info/PKG-INFO
+pyenv_size_analyzer.egg-info/SOURCES.txt
+pyenv_size_analyzer.egg-info/dependency_links.txt
+pyenv_size_analyzer.egg-info/entry_points.txt
+pyenv_size_analyzer.egg-info/requires.txt
+pyenv_size_analyzer.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+pyenv-size-analyze = pyenv_size_analyzer.main:generate_report

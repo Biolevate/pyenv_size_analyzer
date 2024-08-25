@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pyenv-size-analyzer"
+version = "0.1.0"
+description = "A tool to analyze the size of installed Python packages in a virtual environment."
+authors = ["antoinedetorcy <antoine@biolevate.com>"]
+packages = [{include = "pyenv_size_analyzer"}]
+
+[tool.poetry.scripts]
+pyenv-size-analyze = "pyenv_size_analyzer.main:generate_report"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

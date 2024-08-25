@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: pyenv_size_analyzer
+Version: 0.1.0
+Summary: A tool to analyze the size of installed Python packages in a virtual environment.
+Home-page: https://github.com/yourusername/pyenv_size_analyzer
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: pip
