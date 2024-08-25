@@ -9,13 +9,13 @@ To install `pyenv-size-analyzer`, you need to have Python 3.10+.
 You can install PyEnv Size Analyzer using pip:
 
 ```bash
-pip install pyenv-size-analyzer
+pip install git+ssh://git@github.com/Biolevate/pyenv_size_analyzer.git
 ```
 
 or using Poetry:
 
 ```bash
-poetry add pyenv-size-analyzer
+poetry add poetry add git+ssh://git@github.com/Biolevate/pyenv_size_analyzer.git
 ```
 
 ## Usage
